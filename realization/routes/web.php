@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\ContactController;
+// commit
 
 Route::get('/', function () {
     return view('RealEstate/index');
